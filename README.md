@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Podcastr" src="github/logo.svg" width="200px" />
+    <img alt="Podcastr" src="github/logo.svg" width="350px" />
 </h1>
 
 <div align="center">
@@ -23,7 +23,7 @@ Aplicação realizada na NLW 5 (Next Level Week 5) da Rocketseat com intuito de 
   <img src="./github/desktop.png" alt="demo-web" height="500">
 </div>
 
-# :man_technologist_tone1: Tecnologias
+# :tools: Tecnologias
 
 💻 HTML
 
@@ -49,11 +49,11 @@ Aplicação realizada na NLW 5 (Next Level Week 5) da Rocketseat com intuito de 
 
 ### Aplicação
 
-![GIF](github/desktop.GIF)
-![GIF](github/desktop2.GIF)
-![GIF](github/desktop3.GIF)
-![GIF](github/desktop4.GIF)
-![GIF](github/desktop5.GIF)
+![GIF](github/desktop.gif)
+![GIF](github/desktop2.gif)
+![GIF](github/desktop3.gif)
+![GIF](github/desktop4.gif)
+![GIF](github/desktop5.gif)
 
 ### Código:
 
@@ -77,7 +77,7 @@ $ npm run dev / yarn dev
 # Abra o projeto na porta: 3000 - acessando: http://localhost:3000
 ```
 
-## Ajuda da Rockeseat
+## :infinity: Ajuda da Rockeseat
 
 A ajuda das aulas disponibilizadas durante a semana da NLW foi essencial para que eu chegasse no final do projeto. Deixo meus agradecimentos ao professor **Diego Fernandes**.
 [Venha e participe da próxima NLW!!!](https://discord.gg/YxU7fJT)
