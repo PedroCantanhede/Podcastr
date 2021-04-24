@@ -23,7 +23,7 @@ Aplicação realizada na NLW 5 (Next Level Week 5) da Rocketseat com intuito de 
   <img src="./github/desktop.png" alt="demo-web" height="500">
 </div>
 
-# :tools: Tecnologias
+# :hammer: Tecnologias
 
 💻 HTML
 
@@ -77,7 +77,7 @@ $ npm run dev / yarn dev
 # Abra o projeto na porta: 3000 - acessando: http://localhost:3000
 ```
 
-## :infinity: Ajuda da Rockeseat
+## :infinity: Ajuda da Rocketseat
 
 A ajuda das aulas disponibilizadas durante a semana da NLW foi essencial para que eu chegasse no final do projeto. Deixo meus agradecimentos ao professor **Diego Fernandes**.
 [Venha e participe da próxima NLW!!!](https://discord.gg/YxU7fJT)
